@@ -1,6 +1,6 @@
 # Hi!👋
 
-I'm Alperen, an Electrical and Electronics Engineering student.
+I'm an Electrical and Electronics Engineering student.
 
 🚀 About Me
 - Currently working on embedded systems.
