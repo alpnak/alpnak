@@ -4,8 +4,8 @@ I'm an Electrical and Electronics Engineering student.
 
 🚀 About Me
 - Currently working on embedded systems.
-- Trying to improve myself in C/C++.
-- I am working on small electronics projects to gain practical experience.
+- Trying to improve myself in C/C++, Python and MATLAB.
+- Working on small electronics projects to gain practical experience.
 
 Don't forget to check out my projects!
 
