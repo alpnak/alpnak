@@ -1,6 +1,6 @@
-## Hi!👋
+# Hi!👋
 
-I'm Alperen, an Electrical and Electronics Engineering student.
+##I'm Alperen, an Electrical and Electronics Engineering student.
 
 🚀 About Me
 - Currently working on embedded systems.
@@ -8,7 +8,7 @@ I'm Alperen, an Electrical and Electronics Engineering student.
 
 Don't forget to check out my projects!
 
-**📫** **Reach me at: alprnnakbl@gmail.com / anakiboglu@etu.edu.tr**
+📫 **Reach me at: *alprnnakbl@gmail.com* / *anakiboglu@etu.edu.tr***
 
 
 **alpnak/alpnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
