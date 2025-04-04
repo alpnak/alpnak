@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hi!👋
 
-<!--
+I'm Alperen, an Electrical and Electronics Engineering student.
+
+🚀 About Me
+- Currently working on embedded systems.
+- Trying to improve myself in C/C++.
+- You can reach me at: alprnnakbl@gmail.com / anakiboglu@etu.edu.tr
+
+Don't forget to check out my projects!
+
+
 **alpnak/alpnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
